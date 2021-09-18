@@ -1,0 +1,7 @@
+C:\Users\Others\Downloads\MachineProblem1\bin\Debug\MachineProblem1.exe.config
+C:\Users\Others\Downloads\MachineProblem1\bin\Debug\MachineProblem1.exe
+C:\Users\Others\Downloads\MachineProblem1\bin\Debug\MachineProblem1.pdb
+C:\Users\Others\Downloads\MachineProblem1\obj\Debug\MachineProblem1.csproj.AssemblyReference.cache
+C:\Users\Others\Downloads\MachineProblem1\obj\Debug\MachineProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Others\Downloads\MachineProblem1\obj\Debug\MachineProblem1.exe
+C:\Users\Others\Downloads\MachineProblem1\obj\Debug\MachineProblem1.pdb
