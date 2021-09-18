@@ -9,26 +9,17 @@ namespace MachineProblem1
             int[] userLogin = new int[5];
             int[] userPass = new int[5];
             bool[] userValid = new bool[5];
-            
 
             Console.Write("Username: ");
-            userValid[0] = Int32.TryParse(Console.ReadLine(),out userLogin[0]);
+            userValid[0] = Int32.TryParse(Console.ReadLine(), out userLogin[0]);
             userValid[1] = LoginCheck_User(userLogin[0]);
-
 
             while (userValid[0] == false || userValid[1] == false)
             {
                 Console.Write("Username: ");
                 userValid[0] = Int32.TryParse(Console.ReadLine(), out userLogin[0]);
                 userValid[1] = LoginCheck_User(userLogin[0]);
-
             }
-
-
-            
-
-
-
 
             Console.WriteLine("Password: ");
 
@@ -37,21 +28,14 @@ namespace MachineProblem1
 
         public static bool LoginCheck_User(int a)
         {
-            
-            if (a== 2020156520)
+            if (a == 2020156520)
             {
                 return true;
-               
-
             }
             else
             {
-
                 return false;
             }
-
-            
-            
         }
     }
 }
